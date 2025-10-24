@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/16-Operator-Bitwise/16-Operator-Bitwise.iml" filepath="$PROJECT_DIR$/16-Operator-Bitwise/16-Operator-Bitwise.iml" />
       <module fileurl="file://$PROJECT_DIR$/17-Input-Aritmatika/17-Input-Aritmatika.iml" filepath="$PROJECT_DIR$/17-Input-Aritmatika/17-Input-Aritmatika.iml" />
       <module fileurl="file://$PROJECT_DIR$/18-Urutan-Operasi-Aritmatika/18-Urutan-Operasi-Aritmatika.iml" filepath="$PROJECT_DIR$/18-Urutan-Operasi-Aritmatika/18-Urutan-Operasi-Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-Latihan-Operator-Logika/19-Latihan-Operator-Logika.iml" filepath="$PROJECT_DIR$/19-Latihan-Operator-Logika/19-Latihan-Operator-Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-If-Statement/20-If-Statement.iml" filepath="$PROJECT_DIR$/20-If-Statement/20-If-Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinauJava.iml" filepath="$PROJECT_DIR$/SinauJava.iml" />
     </modules>
   </component>
