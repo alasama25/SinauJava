@@ -20,6 +20,11 @@
       <module fileurl="file://$PROJECT_DIR$/19-Latihan-Operator-Logika/19-Latihan-Operator-Logika.iml" filepath="$PROJECT_DIR$/19-Latihan-Operator-Logika/19-Latihan-Operator-Logika.iml" />
       <module fileurl="file://$PROJECT_DIR$/20-If-Statement/20-If-Statement.iml" filepath="$PROJECT_DIR$/20-If-Statement/20-If-Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-if-else-if-statement/21-if-else-if-statement.iml" filepath="$PROJECT_DIR$/21-if-else-if-statement/21-if-else-if-statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-if-bersarang/22-if-bersarang.iml" filepath="$PROJECT_DIR$/22-if-bersarang/22-if-bersarang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-Switch-Case/23-Switch-Case.iml" filepath="$PROJECT_DIR$/23-Switch-Case/23-Switch-Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-Ternary-Operator/24-Ternary-Operator.iml" filepath="$PROJECT_DIR$/24-Ternary-Operator/24-Ternary-Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-latihan-kalkulator-sederhana/25-latihan-kalkulator-sederhana.iml" filepath="$PROJECT_DIR$/25-latihan-kalkulator-sederhana/25-latihan-kalkulator-sederhana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-Kalkulator-Switch-Case/26-Kalkulator-Switch-Case.iml" filepath="$PROJECT_DIR$/26-Kalkulator-Switch-Case/26-Kalkulator-Switch-Case.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinauJava.iml" filepath="$PROJECT_DIR$/SinauJava.iml" />
     </modules>
   </component>

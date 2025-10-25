@@ -16,7 +16,7 @@ public class Main {
 
             System.out.println("ini adalah aksi pertama");
 
-        } else if (a == 10){
+        } else if (a == 5){
 
             System.out.println("ini adalah aksi kedua");
 
